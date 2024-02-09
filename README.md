@@ -3,5 +3,5 @@
 - I mostly work with Django and FastAPI as the main back-end framework.
 - I use Apline.js, HTMX, Bootstrap, and Tailwind CSS to beautify the front-ends.
 - Postgres and Mongodb are my first choice as database, but I have worked with MySql and SQL Server, too.
-- You can reach me by my email which is `heythisisjab` [at] gmail.com.
+- You can reach me by my email which is heythisisjab [at] gmail.com.
 - Also, I have a [linkedin profile](https://linkedin.com/in/thisisjab/) which you may be interested to check out.
