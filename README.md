@@ -1,7 +1,7 @@
-- My name is M. Hossein Jabbarzadeh (You can call me Jab).
-- I am a back-end developer and a computer engineering student.
-- I mostly work with Django and FastAPI as the main back-end framework.
-- I use Apline.js, HTMX, Bootstrap, and Tailwind CSS to beautify the front-ends.
-- Postgres and Mongodb are my first choice as database, but I have worked with MySql and SQL Server, too.
+- My name is M. Hossein Jabbarzadeh (You can call me Jab). 👀
+- I am a back-end developer and a computer engineering student. 
+- I mostly work with Django and FastAPI as the main back-end framework. I also code in go.
+- Although I am not much of front-end guy, I use Apline.js, HTMX, and Bootstrap to beautify the front-ends.
+- Postgres and Mongodb are my first choice as database. I use redis, too. I have worked with neo4j, too.
 - You can reach me by my email which is heythisisjab [at] gmail.com.
 - Also, I have a [linkedin profile](https://linkedin.com/in/thisisjab/) which you may be interested to check out.
