@@ -1,4 +1,4 @@
-### About Me
+### About Me 💬
 
 Hi there! I'm M. Hossein Jabbarzadeh, but you can call me Jab. 👋
 
@@ -15,6 +15,6 @@ While I consider myself a back-end specialist, I craft user-friendly interfaces 
 - Task Queues: Celery
 - Containerization: Docker
 
-### Let's Connect
+### Let's Connect 📨
 
 You can reach me by my email which heythisisjab at gmail.com
