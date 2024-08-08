@@ -1,6 +1,6 @@
 ### About Me 💬
 
-Hi there! I'm M. Hossein Jabbarzadeh, but you can call me Jab. 👋
+Hi there! I'm M. Hossein Jabbarzadeh, but you can call me Jab. 😉
 
 I'm a passionate back-end developer with a strong foundation in computer engineering. My primary focus is on building robust and scalable applications using Python frameworks like **Django** and **FastAPI**. I also have experience working with **Go** for specific use cases.
 
