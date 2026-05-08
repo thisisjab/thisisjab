@@ -1,20 +1,47 @@
-### About Me 💬
+# M. Hossein Jabbarzadeh (Jab)
 
-Hi there! I'm M. Hossein Jabbarzadeh, but you can call me Jab. 😉
+Backend engineer with 2.5+ years of professional experience. Final-year Computer Engineering student. Open to work.
 
-I'm a passionate back-end developer with a strong foundation in computer engineering. My primary focus is on building robust and scalable applications using Python frameworks like **Django** and **FastAPI**. I also have experience working with **Go** for specific use cases.
+## Technical Focus
 
-While I consider myself a back-end specialist, I craft user-friendly interfaces and have experience with front-end technologies such as **React** & **HTMX**.
-- Also, I have a [linkedin profile](https://linkedin.com/in/thisisjab/) which you may be interested to check out.
+- Backend systems and service architecture
+- Data pipeline design
+- System performance optimization
+- Infrastructure and deployment automation
 
-### Technical Skills 🎩
+## Core Technologies
 
-- Back-end: Python, Django, FastAPI, Go
-- Databases: PostgreSQL, MongoDB, Redis, Neo4j, TimescaleDB
-- Message Brokers: RabbitMQ
-- Task Queues: Celery
-- Containerization: Docker
+**Languages:** Python, Go, TypeScript
 
-### Let's Connect 🤙
+**Frameworks & Libraries:** Django, FastAPI, SQLAlchemy, Pytest, React
 
-You can reach me by my email which heythisisjab at gmail.com
+**Databases:** PostgreSQL, MySQL, TimescaleDB, ClickHouse, Neo4j, MongoDB
+
+**Infrastructure & Tools:** Docker, GitHub Actions, Git, RabbitMQ, Redis
+
+## Select Projects
+
+### LogZilla (Maintainer & Creator)
+Lightweight, high-performance log aggregator. Features pluggable log sources (file, shell), Lua-based processing pipeline, custom query language, and ClickHouse storage. Built with Go, TypeScript, and ClickHouse.
+
+### TVP (Tiny Video Party)
+Self-hostable platform for synchronized video watching. Designed for minimal resource usage and real-time playback coordination. Built with Python.
+
+## Professional Experience
+
+- Financial and accounting automation systems for international corporations
+- High-performance video processing pipelines
+- Learning Management Systems (LMS)
+- Time-series data processing at scale
+
+## Currently Focused On
+
+- Completing final year of Computer Engineering degree
+- Scaling Logzilla and expanding its capabilities
+- Deepening DevOps and system architecture knowledge
+
+## Open To Work
+
+Seeking a Software Engineer role with backend focus. Remote or hybrid preferred.
+
+**Contact:** heythisisjab@gmail.com | [LinkedIn](https://linkedin.com/in/thisisjab) | [About Me](https://thisisjab.github.io/about/)
