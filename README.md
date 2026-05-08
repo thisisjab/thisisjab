@@ -1,6 +1,6 @@
 # M. Hossein Jabbarzadeh (Jab)
 
-Backend engineer with 2.5+ years of professional experience. Final-year Computer Engineering student. Open to work.
+Backend engineer with almost 3 years of professional experience. Final-year Computer Engineering student. **Open to work**.
 
 ## Technical Focus
 
@@ -11,13 +11,10 @@ Backend engineer with 2.5+ years of professional experience. Final-year Computer
 
 ## Core Technologies
 
-**Languages:** Python, Go, TypeScript
-
-**Frameworks & Libraries:** Django, FastAPI, SQLAlchemy, Pytest, React
-
-**Databases:** PostgreSQL, MySQL, TimescaleDB, ClickHouse, Neo4j, MongoDB
-
-**Infrastructure & Tools:** Docker, GitHub Actions, Git, RabbitMQ, Redis
+- **Languages:** Python, Go, TypeScript
+- **Frameworks & Libraries:** Django, FastAPI, SQLAlchemy, Pytest, React
+- **Databases:** PostgreSQL, MySQL, TimescaleDB, ClickHouse, Neo4j, MongoDB
+- **Infrastructure & Tools:** Docker, GitHub Actions, Git, RabbitMQ, Redis
 
 ## Select Projects
 
