@@ -42,4 +42,4 @@ Self-hostable platform for synchronized video watching. Designed for minimal res
 
 Seeking a Software Engineer role with backend focus.
 
-☎️ **Contact:** heythisisjab@gmail.com | [LinkedIn](https://linkedin.com/in/thisisjab) | [About Me](https://thisisjab.github.io/about/)
+☎️ **Contact:** jabbarzdehmh [AT] gmail | [LinkedIn](https://linkedin.com/in/thisisjab) | [About Me](https://thisisjab.github.io/about/)
